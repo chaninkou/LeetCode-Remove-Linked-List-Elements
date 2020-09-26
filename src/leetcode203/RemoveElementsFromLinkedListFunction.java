@@ -1,4 +1,4 @@
-package linkedList;
+package leetcode203;
 
 public class RemoveElementsFromLinkedListFunction {
 	// Recursion way
@@ -28,7 +28,7 @@ public class RemoveElementsFromLinkedListFunction {
 	// if(current.val == val){
 	// dummyNode.next = current.next;
 	// } else {
-	// dummyNode = dummyNode.next;
+	// dummyNode = dummyNode.next; 
 	// }
 	// current = current.next;
 	// }

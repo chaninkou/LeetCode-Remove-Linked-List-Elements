@@ -1,4 +1,4 @@
-package linkedList;
+package leetcode203;
 
 public class LinkedListHelperMethods {
 	public static void displayLinkedList(ListNode head){
